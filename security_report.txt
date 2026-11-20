@@ -1,0 +1,23 @@
+LINUX LOGIN SECURITY REPORT
+=============================================
+Analysis Date: 2026-11-21 04:36:49.396172
+
+FAILED LOGIN ATTEMPTS BY IP
+---------------------------------------------
+192.168.1.50 : 5 failed attempts
+192.168.1.75 : 2 failed attempts
+192.168.1.99 : 1 failed attempts
+
+FAILED LOGIN ATTEMPTS BY USERNAME
+---------------------------------------------
+admin : 2 failed attempts
+root : 2 failed attempts
+user1 : 2 failed attempts
+test : 1 failed attempts
+guest : 1 failed attempts
+
+SUSPICIOUS IP ADDRESSES
+---------------------------------------------
+ALERT: 192.168.1.50 - 5 failed attempts
+
+Analysis completed.
